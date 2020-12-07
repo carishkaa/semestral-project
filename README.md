@@ -9,7 +9,7 @@ Problems:
 
 What have I done for now:
 - Simple classifier based on Logistic Regression. 
-- For a more accurate classification, get rid of "unnecessary" genes by using feature selection methods, which was performed within the 20 x 5-fold cross validation.
+- For a more accurate classification, get rid of "unnecessary" genes by using feature selection, which was performed within the 20 x 5-fold cross validation.
 
 In future:
 - generate artificial data
