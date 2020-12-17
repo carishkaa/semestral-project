@@ -13,6 +13,5 @@ What have I done for now:
 
 In future:
 - generate artificial data
-- add IS as features
 - maybe try some other classifiers (SVM, Adaboost)
 - confounding control...
